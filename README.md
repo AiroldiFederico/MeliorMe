@@ -1,11 +1,13 @@
 # TEMPLATE REACT
 # Progetto di Federico Airoldi
 
-Questo repository contiene un progetto di Federico Airoldi. Lo scopo del progetto è quello di fornire un ambiente pratico per esplorare e apprendere varie tecnologie e librerie nel campo dello sviluppo web.
+Questo è un progetto di Federico Airoldi
+
+[PLACEHOLDER]
 
 ## Inizio
 
-Queste istruzioni ti forniranno una copia del progetto in esecuzione sul tuo computer locale a scopo di sviluppo e test. Vedi la sezione "Distribuzione" per note su come distribuire il progetto su un sistema live.
+[PLACEHOLDER]
 
 ### Prerequisiti
 
@@ -64,4 +66,4 @@ Elenco dei principali pacchetti installati in questo progetto:
 
 ## Licenza
 
-Questo progetto non ha licenze
+[PLACEHOLDER]
