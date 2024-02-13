@@ -6,6 +6,7 @@ export default {
       fontFamily: {
         sans: ["Josefin Sans", "sans-serif"],
         roboto: ["Roboto Slab", "sans-serif"],
+        rubik: ["Rubik", "sans-serif"]
       },
     },
   },
