@@ -9,6 +9,8 @@ function App() {
             <h1 className="text-3xl font-bold">MeliorMe</h1>
 
             <Progress titleProgress={"Workout progress"}></Progress>
+            <Progress titleProgress={"English Lesson"}></Progress>
+            <Progress titleProgress={"Programming"}></Progress>
         </section>
     </main>
   );

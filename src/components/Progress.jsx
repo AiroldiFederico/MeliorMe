@@ -1,6 +1,7 @@
 
 import { useState } from 'react';
 
+
 export default function Progress({titleProgress}) {
 
 	// Genera l'array dei giorni dell'anno
